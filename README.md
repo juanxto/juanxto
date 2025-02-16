@@ -1,33 +1,20 @@
 # 🧑🏼‍💻 Juan Pablo Coelho
 
-**`Desenvolvedor FullStack`**
+**`FullStack Developer`**
 
 My name is Juan Pablo Coelho, and I'm 19 years old from São Paulo, Brazil.
 
-Sou um desenvolvedor FullStack apaixonado por tecnologia e sempre em busca de aprender novas ferramentas e aprimorar minhas habilidades. Meu foco principal está no desenvolvimento com **Java** e **Python**.
+I am a passionate FullStack developer, always looking to learn new tools and improve my skills. My main focus is on development with **Java** and **Python**.
 
-### 
 
-<p align="left">
-    <a href="https://github.com/juanxto?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/juanxto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/juanxto?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/juanxto?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+### 📌 About Me
+
+- 🎓 Currently studying **Systems Analysis and Development** at **FIAP** as a **PROUNI scholar**.
+- 📈 Previously completed **one semester of Economics**.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -105,34 +92,35 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e sempre em busca de ap
 <br/>
 <br/>
 
-### 📊 Estatísticas
+
+### 📊 Stats
 
 <p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=juanxto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=juanxto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
+<p>
+  <img 
+      alt="Most Used Languages" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanxto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanxto&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
 
 ---
 
-### 📬 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+### 📬 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-rebelo-7ba5b930a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanprcoelho@gmail.com)
 
 ---
 
-### 💻 Meu setup:
+### 💻 My Setup
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -140,5 +128,5 @@ Sou um desenvolvedor FullStack apaixonado por tecnologia e sempre em busca de ap
 
 ---
 
-### 📚 Atualmente aprendendo:
-- 🛠️ Next.js e TypeScript
+### 📚 Currently Learning
+- 🛠️ Next.js & TypeScript
