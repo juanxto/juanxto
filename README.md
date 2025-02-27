@@ -1,4 +1,4 @@
-# 🧑🏼‍💻 Juan Pablo Coelho
+#  Juan Pablo Coelho
 
 **`FullStack Developer`**
 
