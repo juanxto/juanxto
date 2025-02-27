@@ -99,7 +99,7 @@ I am a passionate FullStack developer, always looking to learn new tools and imp
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=juanxto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=juanxto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=br" 
   />
 </p>
 
